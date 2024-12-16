@@ -1,0 +1,7 @@
+
+    train: /Users/rukmini/Documents/Project/newdata/reduced_train
+    val: /Users/rukmini/Documents/Project/newdata/reduced_test/
+
+    nc: 15  # Number of classes
+    names: ['RoadAccidents', 'Arson', 'Shoplifting', 'Stealing', 'Burglary', 'NormalVideos', 'Fighting', 'Vandalism', 'Explosion', 'Arrest', 'Abuse', 'Robbery', 'Assault', 'Abuse.cache', 'Shooting']
+    
